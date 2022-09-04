@@ -1,0 +1,8 @@
+Executing script: D:\Hardik\TwilioQuest\fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "D:\Hardik\TwilioQuest\fizzbuzz.py", line 7, in <module>
+    if i % 15 == 0:
+TypeError: not all arguments converted during string formatting
+
